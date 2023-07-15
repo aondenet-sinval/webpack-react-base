@@ -1,0 +1,21 @@
+html{
+  background-color: #D38D5F;
+}
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #D38D5F;
+}
+.text-carousel{
+  display: block;
+  margin-top: 30px;
+  border: solid #241C1C 10px;
+  width: 280px;
+  height: 333px;
+}
+li{
+  list-style: none;
+  margin-left: 0px;
+}
